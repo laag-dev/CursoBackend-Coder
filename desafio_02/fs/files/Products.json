@@ -1,0 +1,16 @@
+[
+  {
+    "id": "4d4da48f55b5a3a485891d58",
+    "title": "Producto 1",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDesEJzsBm3k0jbEVEoG9ihNO6a1gZkJ7R8A&usqp=CAU",
+    "price": 50,
+    "stock": 100
+  },
+  {
+    "id": "1a756102ae5ca087a15e9c5b",
+    "title": "Producto 2",
+    "photo": "URL del producto 2",
+    "price": 60,
+    "stock": 75
+  }
+]
